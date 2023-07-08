@@ -1,0 +1,56 @@
+@import url("https://cdn.web-fonts.ge/fonts/alk-life/css/alk-life.min.css");
+
+.container-block {
+    width: 1180px;
+    height: 400px;
+    background-color: blue;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 30px auto;
+}
+.hello {
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color:red; */
+
+    border: 2px dotted red;
+
+    /* margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 50px; */
+
+    margin: 130px 50px;
+}
+
+.box1 {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    display: inline-block;
+}
+.box2 {
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+
+
+/* fonts */
+.title-absoluturi {
+    font-family: "ALK Life", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+.title-relatiuri {
+    font-family: 'ALK Rex Bold';
+}
+.latinuri-absoluturi {
+    font-family: 'Belanosima', sans-serif;
+}
+.latinuri-relatiuri {
+    font-family: 'Roboto-Bold';
+    line-height: 30px;
+}
